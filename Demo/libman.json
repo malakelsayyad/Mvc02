@@ -11,7 +11,7 @@
         "js/bootstrap.min.js"
       ]
     },
-    {
+    { 
       "library": "jquery@3.7.1",
       "destination": "wwwroot/lib/jquery/"
     }
