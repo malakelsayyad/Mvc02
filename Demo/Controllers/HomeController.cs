@@ -4,7 +4,7 @@ namespace Demo.Controllers
 {
     public class HomeController : Controller
     {
-        //View : HTML Page
+        //View : HTML Page 
         //Razor Page : HTML + C#
         public IActionResult Index()
         {

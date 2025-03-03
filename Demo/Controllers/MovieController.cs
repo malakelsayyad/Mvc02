@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Demo.Controllers
 {
     //MVC Controller
-    public class MovieController: Controller
+    public class MovieController: Controller 
     {
         //Actions: public non-static method
         //Actions: have special return types
